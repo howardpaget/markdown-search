@@ -1,0 +1,8 @@
+{
+  "type": "module",
+  "dependencies": {
+    "cli-markdown": "3.0.2",
+    "lunr": "2.3.9",
+    "node-pager": "0.3.6"
+  }
+}
